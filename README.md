@@ -11,8 +11,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
   - I speak Cantonese and Mandarin Chinese.
-  - I love learning languages and I want to learn Latino and German so that I can understand the lyrics from classical music.
-  - I am learning Spanish because I actually want to learn Latino, but it seems like no one is using it in daily life. So I switch to a familiar language and hopefully I would switch back one day.
+  - I love learning languages and I want to learn Latin and German so that I can understand the lyrics from classical music.
+  - I am learning Spanish because I actually want to learn Latin, but it seems like no one is using it in daily life. So I switch to a familiar language and hopefully I would switch back one day.
 
 <!---
 AlexiosChiu/AlexiosChiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
